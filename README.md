@@ -1,4 +1,4 @@
-# Customer-Churn-Analysis
+# Telecom-Churn-Analysis
 
 **Objective**
 
